@@ -43,7 +43,7 @@ vite.config.js
 
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/ecommerce-site.git
+git clone https://github.com/Mridul9A/aShop.git
 cd ecommerce-site
 
 npm install
