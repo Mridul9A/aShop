@@ -21,9 +21,9 @@ const App = () => {
           <Route path='/product' element={ <Product />} />
           <Route path='/contact' element={ <Contact />} />
           <Route path='/card' element={ <Card />} />
-          <Route path='/error_page' element={ <ErrorPage />} />
+          <Route path='*' element={ <ErrorPage />} />
           <Route path="single_product/:id" element={<SingleProduct />} />
-          
+
         </Routes>
 
       </Router>
