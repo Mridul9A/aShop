@@ -61,7 +61,7 @@ Route	Description
 /product → Products Listing,
 /single_product/:id → Single Product Details,
 /contact → Contact Page,
-/card → Shopping Cart Page,
+/card → Shopping Cart Page
 
 # 🤝 Contributing
 Feel free to contribute by submitting a pull request or reporting issues.
