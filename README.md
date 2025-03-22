@@ -68,7 +68,3 @@ Feel free to contribute by submitting a pull request or reporting issues.
 
 # 📜 License
 This project is licensed under MIT License.
-
-### **📌 How to Copy?**  
-Click the **"Copy Code"** button above, and you're good to go! 🚀
-
